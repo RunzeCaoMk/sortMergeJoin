@@ -1,0 +1,1 @@
+Please see the pdf file named "SortMergeJoin.pdf" under "writeup" folder.

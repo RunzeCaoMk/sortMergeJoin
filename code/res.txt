@@ -1,0 +1,21 @@
+Micro-benchmark with different cardinality
+2^11 = 2048:
+m-way: 0.2659745
+m-pass: 0.563117
+2^15 = 32768:
+m-way: 24.7946406
+m-pass: 140.6125726
+2^17 = 131072:
+m-way: 353.2898391
+m-pass: 2163.3211129
+
+Micro-benchmark with different range
+0-5000:
+m-way: 0.2977046
+m-pass: 0.7285732
+0-10000:
+m-way: 0.290623
+m-pass: 0.7214964
+0-100000:
+m-way: 0.2936544
+m-pass: 0.7418729
