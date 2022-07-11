@@ -3,7 +3,7 @@
 This project is to design and implement Sort Merge Join for CurstyDB. 
 
 ## Final writeup
-Please go to "writeup" folder for the final write up. 
+Please go to "writeup" folder for the final write up including implementation details and benchmark results. 
 
 ## Testing
 Testings are implemented in "join.rs" under "code/src/". To run those testing, you can simply run the testing "mod test".
